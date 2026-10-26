@@ -62,3 +62,16 @@ Personalize fixed-drive icons in Windows Explorer and restore their previous app
 4. Select a folder or drive, choose an icon, and click Apply.
 
 **Developed by Insight Tools — Insight Research & Consulting.**
+
+
+---
+
+## ⭐ Rate This App | قيّم تجربتك
+
+Have you tried **Insight-Folder-Icon**? Please share an honest 1–5 star rating and suggestions to help us improve.
+
+هل جربت البرنامج؟ شارك تقييمك الصادق من 1 إلى 5 نجوم وملاحظاتك لتساعدنا على تطويره.
+
+**[⭐ Rate this app / قيّم البرنامج](https://github.com/alarifi/Insight-Folder-Icon/issues/new?template=rate-your-experience.yml)**
+
+> GitHub sign-in is required. Reviews posted as Issues are public; do not share private information. The GitHub repository Star button is a separate way to show support, not a 1–5 rating.

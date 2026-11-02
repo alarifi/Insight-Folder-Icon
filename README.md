@@ -75,3 +75,11 @@ Have you tried **Insight-Folder-Icon**? Please share an honest 1–5 star rating
 **[⭐ Rate this app / قيّم البرنامج](https://github.com/alarifi/Insight-Folder-Icon/issues/new?template=rate-your-experience.yml)**
 
 > GitHub sign-in is required. Reviews posted as Issues are public; do not share private information. The GitHub repository Star button is a separate way to show support, not a 1–5 rating.
+
+
+---
+
+### Official Insight Software Website & Support | الموقع الرسمي والدعم
+
+- **Software website | موقع البرامج:** https://software.insight-ye.com/
+- **Technical support | الدعم الفني:** [info@insight-ye.com](mailto:info@insight-ye.com)
